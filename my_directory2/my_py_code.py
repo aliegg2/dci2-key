@@ -9,3 +9,9 @@ else:
 list1 = [2, 9, 3, 8, 4, 7, 5, 6]
 print(list1[6])
 
+# now using a for loop to print the number 5
+
+for i in list1:
+    if i == 5:
+        print(i)
+
