@@ -1,2 +1,5 @@
 This is my first text 
 it will be published on github 
+
+we are using vs code it is better than the terminal 
+!
